@@ -37,6 +37,22 @@ Requirements:
 
 ## Usage
 
+### Quick Demo
+
+To see a quick demonstration of all features without user interaction:
+
+```bash
+python3 demo.py
+```
+
+This will show:
+- All available recipes
+- Recipe details
+- Search functionality
+- Recipes by category
+- Weekly meal plan generation
+- Shopping list creation
+
 ### Running the Main Application
 
 ```bash
